@@ -1,1 +1,10 @@
-Prova
+A Slew drive (or slewing drive) is a gearbox that can safely hold radial and axial loads using high rotational torque.
+
+Starting from the project available on https://www.thingiverse.com/thing:2792144, TheWarolf redesign the Slew adding a steppermount element in order to be 
+3d printed without any support.
+
+He also added the seat on HullBottom and Steppermount parts for a 5mm bearing mounted on worm shaft.
+
+Waring: the Hulls and the Steppermount STLs have to be oriented for print on external flat area.
+
+Enjoy it!
